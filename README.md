@@ -9,8 +9,8 @@ Excel
 Data Analysis
 Business insights
 ## Files
-- SQL Script: Code
+- Zomato.sql: Code
 - Zomato orders & restaurant analysis- mini project 6\Zomato Orders Analysis.pbix : Visualization
-- customer_data.csv: Sample Data
+- Zomato_Orders.csv, Zomato_Restaurants.csv : Sample Data
 ## Author
 Devanand Ravikumar
